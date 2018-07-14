@@ -1,2 +1,2 @@
 # neural_networks_py
-Implementation of neural network in pure python
+Implementation of neural networks in pure python
